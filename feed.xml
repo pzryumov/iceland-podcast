@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Fire &amp; Ice: An Iceland Road-Trip Podcast</title>
+    <link>https://pzryumov.github.io/iceland-podcast</link>
+    <language>en-us</language>
+    <copyright>(c) The Zryumov family</copyright>
+    <description>A family travel-and-learning podcast for the drives on a 10-day Iceland road trip. Two hosts, Anna and Magnus, tell the story of Iceland - volcanoes, Vikings, glaciers, elves, puffins and more - starting from zero and building day by day. Made for grown-ups and for kids aged 7 and 9 in the back seat.</description>
+    <itunes:summary>A family travel-and-learning podcast for the drives on a 10-day Iceland road trip. Two hosts, Anna and Magnus, tell the story of Iceland - volcanoes, Vikings, glaciers, elves, puffins and more - starting from zero and building day by day. Made for grown-ups and for kids aged 7 and 9 in the back seat.</itunes:summary>
+    <itunes:author>The Zryumov family</itunes:author>
+    <itunes:type>serial</itunes:type>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:image href="https://pzryumov.github.io/iceland-podcast/cover.jpg"/>
+    <itunes:category text="Kids &amp; Family">
+      <itunes:category text="Education for Kids"/>
+    </itunes:category>
+    <itunes:owner>
+      <itunes:name>The Zryumov family</itunes:name>
+      <itunes:email>pzryumov@gmail.com</itunes:email>
+    </itunes:owner>
+    <item>
+      <title>Ep 1: The Land of Fire and Ice</title>
+      <itunes:title>The Land of Fire and Ice</itunes:title>
+      <itunes:episode>1</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <description>What and where Iceland is: a brand-new island still being built on the Mid-Atlantic Ridge.</description>
+      <itunes:summary>What and where Iceland is: a brand-new island still being built on the Mid-Atlantic Ridge.</itunes:summary>
+      <enclosure url="https://pzryumov.github.io/iceland-podcast/audio/day-01-pod-1-land-of-fire-and-ice.mp3" length="21588237" type="audio/mpeg"/>
+      <guid isPermaLink="false">fireandice-ep01</guid>
+      <pubDate>Mon, 01 Jun 2026 09:00:00 +0000</pubDate>
+      <itunes:duration>00:29:59</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Ep 2: The Vikings Arrive</title>
+      <itunes:title>The Vikings Arrive</itunes:title>
+      <itunes:episode>2</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <description>How an empty island got its people: Ingolfur Arnarson, the high-seat pillars, and the Althingi.</description>
+      <itunes:summary>How an empty island got its people: Ingolfur Arnarson, the high-seat pillars, and the Althingi.</itunes:summary>
+      <enclosure url="https://pzryumov.github.io/iceland-podcast/audio/day-01-pod-2-the-vikings-arrive.mp3" length="23814477" type="audio/mpeg"/>
+      <guid isPermaLink="false">fireandice-ep02</guid>
+      <pubDate>Tue, 02 Jun 2026 09:00:00 +0000</pubDate>
+      <itunes:duration>00:33:04</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+  </channel>
+</rss>
