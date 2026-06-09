@@ -27,7 +27,7 @@
       <itunes:episodeType>full</itunes:episodeType>
       <description>What and where Iceland is: a brand-new island still being built on the Mid-Atlantic Ridge.</description>
       <itunes:summary>What and where Iceland is: a brand-new island still being built on the Mid-Atlantic Ridge.</itunes:summary>
-      <enclosure url="https://pzryumov.github.io/iceland-podcast/audio/day-01-pod-1-land-of-fire-and-ice.mp3" length="21588237" type="audio/mpeg"/>
+      <enclosure url="https://pzryumov.github.io/iceland-podcast/audio/day-01-pod-1-land-of-fire-and-ice.mp3" length="21883729" type="audio/mpeg"/>
       <guid isPermaLink="false">fireandice-ep01</guid>
       <pubDate>Mon, 01 Jun 2026 09:00:00 +0000</pubDate>
       <itunes:duration>00:29:59</itunes:duration>
@@ -40,10 +40,62 @@
       <itunes:episodeType>full</itunes:episodeType>
       <description>How an empty island got its people: Ingolfur Arnarson, the high-seat pillars, and the Althingi.</description>
       <itunes:summary>How an empty island got its people: Ingolfur Arnarson, the high-seat pillars, and the Althingi.</itunes:summary>
-      <enclosure url="https://pzryumov.github.io/iceland-podcast/audio/day-01-pod-2-the-vikings-arrive.mp3" length="23814477" type="audio/mpeg"/>
+      <enclosure url="https://pzryumov.github.io/iceland-podcast/audio/day-01-pod-2-the-vikings-arrive.mp3" length="24111485" type="audio/mpeg"/>
       <guid isPermaLink="false">fireandice-ep02</guid>
       <pubDate>Tue, 02 Jun 2026 09:00:00 +0000</pubDate>
       <itunes:duration>00:33:04</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Ep 3: Waterfalls and a Volcano You Can't Pronounce</title>
+      <itunes:title>Waterfalls and a Volcano You Can't Pronounce</itunes:title>
+      <itunes:episode>3</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <description>Why Iceland has thousands of waterfalls, plus the 2010 Eyjafjallajokull eruption that grounded airplanes.</description>
+      <itunes:summary>Why Iceland has thousands of waterfalls, plus the 2010 Eyjafjallajokull eruption that grounded airplanes.</itunes:summary>
+      <enclosure url="https://pzryumov.github.io/iceland-podcast/audio/day-01-pod-3-waterfalls-and-eyjafjallajokull.mp3" length="20751942" type="audio/mpeg"/>
+      <guid isPermaLink="false">fireandice-ep03</guid>
+      <pubDate>Wed, 03 Jun 2026 09:00:00 +0000</pubDate>
+      <itunes:duration>00:28:25</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Ep 4: Glaciers and the Highlands</title>
+      <itunes:title>Glaciers and the Highlands</itunes:title>
+      <itunes:episode>4</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <description>Rivers of ice, the valley of Thorsmork, and sudden glacial floods.</description>
+      <itunes:summary>Rivers of ice, the valley of Thorsmork, and sudden glacial floods.</itunes:summary>
+      <enclosure url="https://pzryumov.github.io/iceland-podcast/audio/day-02-pod-1-glaciers-and-the-highlands.mp3" length="19891124" type="audio/mpeg"/>
+      <guid isPermaLink="false">fireandice-ep04</guid>
+      <pubDate>Thu, 04 Jun 2026 09:00:00 +0000</pubDate>
+      <itunes:duration>00:27:14</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Ep 5: Norse Gods and the Days of the Week</title>
+      <itunes:title>Norse Gods and the Days of the Week</itunes:title>
+      <itunes:episode>5</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <description>Odin, Thor, Loki and Freyja - and why Thursday is literally Thor's day.</description>
+      <itunes:summary>Odin, Thor, Loki and Freyja - and why Thursday is literally Thor's day.</itunes:summary>
+      <enclosure url="https://pzryumov.github.io/iceland-podcast/audio/day-02-pod-2-norse-gods-and-the-days-of-the-week.mp3" length="21111637" type="audio/mpeg"/>
+      <guid isPermaLink="false">fireandice-ep05</guid>
+      <pubDate>Fri, 05 Jun 2026 09:00:00 +0000</pubDate>
+      <itunes:duration>00:28:55</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Ep 6: Turf Houses and How People Survived</title>
+      <itunes:title>Turf Houses and How People Survived</itunes:title>
+      <itunes:episode>6</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <description>A thousand years of life in houses made of grass.</description>
+      <itunes:summary>A thousand years of life in houses made of grass.</itunes:summary>
+      <enclosure url="https://pzryumov.github.io/iceland-podcast/audio/day-03-pod-1-turf-houses-and-old-iceland.mp3" length="11657155" type="audio/mpeg"/>
+      <guid isPermaLink="false">fireandice-ep06</guid>
+      <pubDate>Sat, 06 Jun 2026 09:00:00 +0000</pubDate>
+      <itunes:duration>00:15:48</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
