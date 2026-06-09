@@ -98,5 +98,57 @@
       <itunes:duration>00:15:48</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <title>Ep 7: Black Sand, Basalt Columns, and Stone Trolls</title>
+      <itunes:title>Black Sand, Basalt Columns, and Stone Trolls</itunes:title>
+      <itunes:episode>7</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <description>Reynisfjara's geology and folklore - and its genuinely dangerous waves.</description>
+      <itunes:summary>Reynisfjara's geology and folklore - and its genuinely dangerous waves.</itunes:summary>
+      <enclosure url="https://pzryumov.github.io/iceland-podcast/audio/day-03-pod-2-black-sand-basalt-and-stone-trolls.mp3" length="22061571" type="audio/mpeg"/>
+      <guid isPermaLink="false">fireandice-ep07</guid>
+      <pubDate>Sun, 07 Jun 2026 09:00:00 +0000</pubDate>
+      <itunes:duration>00:30:14</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Ep 8: Puffins and the Birds of Iceland</title>
+      <itunes:title>Puffins and the Birds of Iceland</itunes:title>
+      <itunes:episode>8</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <description>Sea parrots, pufflings, and the Arctic tern's pole-to-pole journey.</description>
+      <itunes:summary>Sea parrots, pufflings, and the Arctic tern's pole-to-pole journey.</itunes:summary>
+      <enclosure url="https://pzryumov.github.io/iceland-podcast/audio/day-03-pod-3-puffins-and-the-birds-of-iceland.mp3" length="15428431" type="audio/mpeg"/>
+      <guid isPermaLink="false">fireandice-ep08</guid>
+      <pubDate>Mon, 08 Jun 2026 09:00:00 +0000</pubDate>
+      <itunes:duration>00:21:02</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Ep 9: The Laki Eruption of 1783</title>
+      <itunes:title>The Laki Eruption of 1783</itunes:title>
+      <itunes:episode>9</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <description>The eruption that caused a famine and changed weather across the world.</description>
+      <itunes:summary>The eruption that caused a famine and changed weather across the world.</itunes:summary>
+      <enclosure url="https://pzryumov.github.io/iceland-podcast/audio/day-04-pod-1-the-laki-eruption-of-1783.mp3" length="20404482" type="audio/mpeg"/>
+      <guid isPermaLink="false">fireandice-ep09</guid>
+      <pubDate>Tue, 09 Jun 2026 09:00:00 +0000</pubDate>
+      <itunes:duration>00:27:56</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Ep 10: Carved by Rivers: Canyons, Moss, and Folklore</title>
+      <itunes:title>Carved by Rivers: Canyons, Moss, and Folklore</itunes:title>
+      <itunes:episode>10</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <description>The Fjadrargljufur canyon and the legend of the sisters of Klaustur.</description>
+      <itunes:summary>The Fjadrargljufur canyon and the legend of the sisters of Klaustur.</itunes:summary>
+      <enclosure url="https://pzryumov.github.io/iceland-podcast/audio/day-04-pod-2-canyons-moss-and-folklore.mp3" length="11627461" type="audio/mpeg"/>
+      <guid isPermaLink="false">fireandice-ep10</guid>
+      <pubDate>Wed, 10 Jun 2026 09:00:00 +0000</pubDate>
+      <itunes:duration>00:15:45</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
   </channel>
 </rss>
