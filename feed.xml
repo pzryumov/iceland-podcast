@@ -21,6 +21,19 @@
       <itunes:email>pzryumov@gmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>Ep 0: One Sleep Until Iceland</title>
+      <itunes:title>One Sleep Until Iceland</itunes:title>
+      <itunes:episode>0</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <description>A trailer for the whole trip, recorded on the way to the airport: who we are, the wonders coming up, and the road-trip games. Plays before Episode 1.</description>
+      <itunes:summary>A trailer for the whole trip, recorded on the way to the airport: who we are, the wonders coming up, and the road-trip games. Plays before Episode 1.</itunes:summary>
+      <enclosure url="https://pzryumov.github.io/iceland-podcast/audio/day-00-pod-1-one-sleep-until-iceland.mp3" length="18347661" type="audio/mpeg"/>
+      <guid isPermaLink="false">fireandice-ep00</guid>
+      <pubDate>Thu, 30 Apr 2026 09:00:00 +0000</pubDate>
+      <itunes:duration>00:25:29</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Ep 1: The Land of Fire and Ice</title>
       <itunes:title>The Land of Fire and Ice</itunes:title>
       <itunes:episode>1</itunes:episode>
