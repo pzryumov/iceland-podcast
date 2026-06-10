@@ -150,5 +150,174 @@
       <itunes:duration>00:15:45</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <title>Ep 11: Vatnajokull, Europe's Greatest Ice Cap</title>
+      <itunes:title>Vatnajokull, Europe's Greatest Ice Cap</itunes:title>
+      <itunes:episode>11</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <description>Fire underneath the ice, and a waterfall made of black basalt columns.</description>
+      <itunes:summary>Fire underneath the ice, and a waterfall made of black basalt columns.</itunes:summary>
+      <enclosure url="https://pzryumov.github.io/iceland-podcast/audio/day-05-pod-1-vatnajokull-europes-ice-cap.mp3" length="19399417" type="audio/mpeg"/>
+      <guid isPermaLink="false">fireandice-ep11</guid>
+      <pubDate>Thu, 11 Jun 2026 09:00:00 +0000</pubDate>
+      <itunes:duration>00:26:33</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Ep 12: Icebergs and a Warming World</title>
+      <itunes:title>Icebergs and a Warming World</itunes:title>
+      <itunes:episode>12</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <description>The glacier lagoon, why ice glows blue, and a changing climate.</description>
+      <itunes:summary>The glacier lagoon, why ice glows blue, and a changing climate.</itunes:summary>
+      <enclosure url="https://pzryumov.github.io/iceland-podcast/audio/day-05-pod-2-icebergs-and-a-warming-world.mp3" length="20605299" type="audio/mpeg"/>
+      <guid isPermaLink="false">fireandice-ep12</guid>
+      <pubDate>Fri, 12 Jun 2026 09:00:00 +0000</pubDate>
+      <itunes:duration>00:28:13</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Ep 13: The Hidden People - Elves and Folklore</title>
+      <itunes:title>The Hidden People - Elves and Folklore</itunes:title>
+      <itunes:episode>13</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <description>Elves, roads that bend around rocks, and the 13 Yule Lads.</description>
+      <itunes:summary>Elves, roads that bend around rocks, and the 13 Yule Lads.</itunes:summary>
+      <enclosure url="https://pzryumov.github.io/iceland-podcast/audio/day-05-pod-3-the-hidden-people-and-elves.mp3" length="21346650" type="audio/mpeg"/>
+      <guid isPermaLink="false">fireandice-ep13</guid>
+      <pubDate>Sat, 13 Jun 2026 09:00:00 +0000</pubDate>
+      <itunes:duration>00:29:15</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Ep 14: The Sagas</title>
+      <itunes:title>The Sagas</itunes:title>
+      <itunes:episode>14</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <description>How a tiny, poor, treeless nation wrote some of the world's greatest stories.</description>
+      <itunes:summary>How a tiny, poor, treeless nation wrote some of the world's greatest stories.</itunes:summary>
+      <enclosure url="https://pzryumov.github.io/iceland-podcast/audio/day-06-pod-1-the-sagas.mp3" length="23740842" type="audio/mpeg"/>
+      <guid isPermaLink="false">fireandice-ep14</guid>
+      <pubDate>Sun, 14 Jun 2026 09:00:00 +0000</pubDate>
+      <itunes:duration>00:32:34</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Ep 15: Welcome to Reykjavik</title>
+      <itunes:title>Welcome to Reykjavik</itunes:title>
+      <itunes:episode>15</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <description>From a lone Viking farm to the world's northernmost capital.</description>
+      <itunes:summary>From a lone Viking farm to the world's northernmost capital.</itunes:summary>
+      <enclosure url="https://pzryumov.github.io/iceland-podcast/audio/day-06-pod-2-welcome-to-reykjavik.mp3" length="11711561" type="audio/mpeg"/>
+      <guid isPermaLink="false">fireandice-ep15</guid>
+      <pubDate>Mon, 15 Jun 2026 09:00:00 +0000</pubDate>
+      <itunes:duration>00:15:52</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Ep 16: How Iceland Became Free</title>
+      <itunes:title>How Iceland Became Free</itunes:title>
+      <itunes:episode>16</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <description>Commonwealth to republic, and why June 17 is the country's birthday.</description>
+      <itunes:summary>Commonwealth to republic, and why June 17 is the country's birthday.</itunes:summary>
+      <enclosure url="https://pzryumov.github.io/iceland-podcast/audio/day-07-pod-1-how-iceland-became-free.mp3" length="20467896" type="audio/mpeg"/>
+      <guid isPermaLink="false">fireandice-ep16</guid>
+      <pubDate>Tue, 16 Jun 2026 09:00:00 +0000</pubDate>
+      <itunes:duration>00:28:01</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Ep 17: Being a Kid in Iceland</title>
+      <itunes:title>Being a Kid in Iceland</itunes:title>
+      <itunes:episode>17</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <description>Names with no surnames, the football miracle, and the Viking clap.</description>
+      <itunes:summary>Names with no surnames, the football miracle, and the Viking clap.</itunes:summary>
+      <enclosure url="https://pzryumov.github.io/iceland-podcast/audio/day-07-pod-2-being-a-kid-in-iceland.mp3" length="14687065" type="audio/mpeg"/>
+      <guid isPermaLink="false">fireandice-ep17</guid>
+      <pubDate>Wed, 17 Jun 2026 09:00:00 +0000</pubDate>
+      <itunes:duration>00:20:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Ep 18: Thingvellir: Two Continents and a Nation</title>
+      <itunes:title>Thingvellir: Two Continents and a Nation</itunes:title>
+      <itunes:episode>18</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <description>Standing in the crack between two continents, where Iceland was born as a nation.</description>
+      <itunes:summary>Standing in the crack between two continents, where Iceland was born as a nation.</itunes:summary>
+      <enclosure url="https://pzryumov.github.io/iceland-podcast/audio/day-08-pod-1-thingvellir-two-continents-and-a-nation.mp3" length="20569919" type="audio/mpeg"/>
+      <guid isPermaLink="false">fireandice-ep18</guid>
+      <pubDate>Thu, 18 Jun 2026 09:00:00 +0000</pubDate>
+      <itunes:duration>00:28:10</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Ep 19: Geysers and Geothermal Iceland</title>
+      <itunes:title>Geysers and Geothermal Iceland</itunes:title>
+      <itunes:episode>19</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <description>Exploding water on a timer, and tomatoes grown in the Arctic.</description>
+      <itunes:summary>Exploding water on a timer, and tomatoes grown in the Arctic.</itunes:summary>
+      <enclosure url="https://pzryumov.github.io/iceland-podcast/audio/day-08-pod-2-geysers-and-geothermal-iceland.mp3" length="21047286" type="audio/mpeg"/>
+      <guid isPermaLink="false">fireandice-ep19</guid>
+      <pubDate>Fri, 19 Jun 2026 09:00:00 +0000</pubDate>
+      <itunes:duration>00:28:50</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Ep 20: The Woman Who Saved Gullfoss</title>
+      <itunes:title>The Woman Who Saved Gullfoss</itunes:title>
+      <itunes:episode>20</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <description>Sigridur Tomasdottir's fight to save the Golden Falls.</description>
+      <itunes:summary>Sigridur Tomasdottir's fight to save the Golden Falls.</itunes:summary>
+      <enclosure url="https://pzryumov.github.io/iceland-podcast/audio/day-08-pod-3-the-woman-who-saved-gullfoss.mp3" length="11454620" type="audio/mpeg"/>
+      <guid isPermaLink="false">fireandice-ep20</guid>
+      <pubDate>Sat, 20 Jun 2026 09:00:00 +0000</pubDate>
+      <itunes:duration>00:15:31</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Ep 21: The Blue Lagoon and Reykjanes' New Volcanoes</title>
+      <itunes:title>The Blue Lagoon and Reykjanes' New Volcanoes</itunes:title>
+      <itunes:episode>21</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <description>A spa born from a power plant, on a peninsula making brand-new lava.</description>
+      <itunes:summary>A spa born from a power plant, on a peninsula making brand-new lava.</itunes:summary>
+      <enclosure url="https://pzryumov.github.io/iceland-podcast/audio/day-09-pod-1-blue-lagoon-and-reykjanes-volcanoes.mp3" length="22521269" type="audio/mpeg"/>
+      <guid isPermaLink="false">fireandice-ep21</guid>
+      <pubDate>Sun, 21 Jun 2026 09:00:00 +0000</pubDate>
+      <itunes:duration>00:30:52</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Ep 22: Pool Culture and the Geothermal Good Life</title>
+      <itunes:title>Pool Culture and the Geothermal Good Life</itunes:title>
+      <itunes:episode>22</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <description>Why every Icelandic town has a hot pot - and runs on heat from the ground.</description>
+      <itunes:summary>Why every Icelandic town has a hot pot - and runs on heat from the ground.</itunes:summary>
+      <enclosure url="https://pzryumov.github.io/iceland-podcast/audio/day-09-pod-2-pool-culture-and-the-geothermal-life.mp3" length="9763093" type="audio/mpeg"/>
+      <guid isPermaLink="false">fireandice-ep22</guid>
+      <pubDate>Mon, 22 Jun 2026 09:00:00 +0000</pubDate>
+      <itunes:duration>00:13:10</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Ep 23: Iceland in Ten Days</title>
+      <itunes:title>Iceland in Ten Days</itunes:title>
+      <itunes:episode>23</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <description>The whole trip tied together, a family quiz, and goodbye.</description>
+      <itunes:summary>The whole trip tied together, a family quiz, and goodbye.</itunes:summary>
+      <enclosure url="https://pzryumov.github.io/iceland-podcast/audio/day-10-pod-1-iceland-in-ten-days.mp3" length="19199720" type="audio/mpeg"/>
+      <guid isPermaLink="false">fireandice-ep23</guid>
+      <pubDate>Tue, 23 Jun 2026 09:00:00 +0000</pubDate>
+      <itunes:duration>00:26:16</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
   </channel>
 </rss>
