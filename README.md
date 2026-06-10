@@ -11,10 +11,13 @@ by day. Made for grown-ups and for kids aged 7 and 9 in the back seat.
 https://pzryumov.github.io/iceland-podcast/feed.xml
 ```
 
-It is a serial show, so it plays oldest-first, in order. 23 episodes across the
-10 days of the trip.
+It is a serial show, so it plays oldest-first, in order. A pre-trip Episode 0
+trailer plus 23 episodes across the 10 days of the trip - 24 in all.
 
 ## Episodes
+
+### Episode 0 - Before You Fly
+0. **One Sleep Until Iceland** (28 min) - A trailer recorded in the car on the way to the airport, before the trip even begins: who Anna and Magnus are, a no-spoilers sneak peek of the wonders ahead, and the road-trip games to come (the chocolate-bar tree bet, horse-counting, "whoa facts," and the first words of Icelandic). Hands straight off into Episode 1.
 
 ### Day 1 - Arrival and the South Coast
 1. **The Land of Fire and Ice** (30 min) - Where Iceland is and why it exists: a brand-new island straddling the Mid-Atlantic Ridge, built by volcanoes and a hotspot where two continents pull apart. The big idea the whole series rests on: this country is still being built.
