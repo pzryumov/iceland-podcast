@@ -326,10 +326,10 @@
       <itunes:episodeType>full</itunes:episodeType>
       <description>The whole trip tied together, a family quiz, and goodbye.</description>
       <itunes:summary>The whole trip tied together, a family quiz, and goodbye.</itunes:summary>
-      <enclosure url="https://pzryumov.github.io/iceland-podcast/audio/day-10-pod-1-iceland-in-ten-days.mp3" length="19199720" type="audio/mpeg"/>
+      <enclosure url="https://pzryumov.github.io/iceland-podcast/audio/day-10-pod-1-iceland-in-ten-days.mp3" length="23118996" type="audio/mpeg"/>
       <guid isPermaLink="false">fireandice-ep23</guid>
       <pubDate>Sat, 23 May 2026 09:00:00 +0000</pubDate>
-      <itunes:duration>00:26:16</itunes:duration>
+      <itunes:duration>00:31:42</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
