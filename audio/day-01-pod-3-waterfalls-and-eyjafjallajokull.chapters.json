@@ -1,0 +1,29 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 0.0,
+      "title": "Behind the Waterfall"
+    },
+    {
+      "startTime": 171.5,
+      "title": "Why Iceland Has So Many Waterfalls"
+    },
+    {
+      "startTime": 678.6,
+      "title": "Kerid: the Eye of the World"
+    },
+    {
+      "startTime": 986.4,
+      "title": "The Volcano You Can't Pronounce"
+    },
+    {
+      "startTime": 1175.6,
+      "title": "The Day a Volcano Closed the Sky"
+    },
+    {
+      "startTime": 1546.0,
+      "title": "Fire and Ice Are the Same Story"
+    }
+  ]
+}

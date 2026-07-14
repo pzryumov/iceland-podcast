@@ -1,0 +1,29 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 0.0,
+      "title": "A House Built on Cows"
+    },
+    {
+      "startTime": 127.8,
+      "title": "The House Made of Grass"
+    },
+    {
+      "startTime": 304.1,
+      "title": "One Warm Room: the Badstofa"
+    },
+    {
+      "startTime": 399.9,
+      "title": "Winter Nights and Wool for Money"
+    },
+    {
+      "startTime": 558.0,
+      "title": "The Forest That Vanished"
+    },
+    {
+      "startTime": 886.7,
+      "title": "What's Next: the Black Beach"
+    }
+  ]
+}

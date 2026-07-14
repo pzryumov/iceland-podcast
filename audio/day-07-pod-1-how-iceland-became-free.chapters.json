@@ -1,0 +1,33 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 0.0,
+      "title": "Welcome: National Day"
+    },
+    {
+      "startTime": 205.2,
+      "title": "The Free Commonwealth"
+    },
+    {
+      "startTime": 419.1,
+      "title": "The Old Covenant"
+    },
+    {
+      "startTime": 621.6,
+      "title": "The Long Cold Centuries"
+    },
+    {
+      "startTime": 813.5,
+      "title": "The Politest Revolution"
+    },
+    {
+      "startTime": 1108.3,
+      "title": "Staircase to Freedom"
+    },
+    {
+      "startTime": 1650.1,
+      "title": "What's Next: Kids in Iceland"
+    }
+  ]
+}

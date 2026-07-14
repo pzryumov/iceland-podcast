@@ -1,0 +1,25 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 0.0,
+      "title": "Welcome to the City"
+    },
+    {
+      "startTime": 115.7,
+      "title": "It Started Right Here"
+    },
+    {
+      "startTime": 447.8,
+      "title": "The Magic Under the Streets"
+    },
+    {
+      "startTime": 625.4,
+      "title": "The Spotter's Guide"
+    },
+    {
+      "startTime": 888.7,
+      "title": "What's Next: National Day"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 0.0,
+      "title": "Meet the Puffin"
+    },
+    {
+      "startTime": 352.1,
+      "title": "The Burrow and the Puffling"
+    },
+    {
+      "startTime": 454.1,
+      "title": "Secret Superpowers"
+    },
+    {
+      "startTime": 728.9,
+      "title": "The Arctic Tern: Greatest Traveler"
+    },
+    {
+      "startTime": 965.0,
+      "title": "The Bird Cliff: a Fortress"
+    }
+  ]
+}

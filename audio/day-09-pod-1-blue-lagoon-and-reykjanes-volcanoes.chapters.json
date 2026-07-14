@@ -1,0 +1,33 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 0.0,
+      "title": "Cold Open"
+    },
+    {
+      "startTime": 120.0,
+      "title": "Welcome & Roadmap"
+    },
+    {
+      "startTime": 265.5,
+      "title": "The Happiest Accident"
+    },
+    {
+      "startTime": 590.6,
+      "title": "Why So Blue and Warm"
+    },
+    {
+      "startTime": 847.1,
+      "title": "A Land Wakes Up"
+    },
+    {
+      "startTime": 1209.8,
+      "title": "When the Volcano Came to Town"
+    },
+    {
+      "startTime": 1829.2,
+      "title": "What's Next: The Local Pool"
+    }
+  ]
+}

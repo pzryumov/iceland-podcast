@@ -1,0 +1,37 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 0.0,
+      "title": "Welcome to Fire & Ice"
+    },
+    {
+      "startTime": 277.7,
+      "title": "What and Where Is Iceland"
+    },
+    {
+      "startTime": 391.2,
+      "title": "A Nearly-Empty, Army-Free Island"
+    },
+    {
+      "startTime": 631.5,
+      "title": "The Crack Between Two Continents"
+    },
+    {
+      "startTime": 1124.9,
+      "title": "Fire: Volcanoes and Earth-Heat"
+    },
+    {
+      "startTime": 1288.6,
+      "title": "Ice: Glaciers and Floods"
+    },
+    {
+      "startTime": 1511.3,
+      "title": "Today's Stops: Kerid and Seljalandsfoss"
+    },
+    {
+      "startTime": 1731.7,
+      "title": "What's Coming Next"
+    }
+  ]
+}

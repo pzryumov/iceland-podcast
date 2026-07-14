@@ -1,0 +1,33 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 0.0,
+      "title": "A Day in Thor's Woods"
+    },
+    {
+      "startTime": 199.3,
+      "title": "Who Was Thor?"
+    },
+    {
+      "startTime": 460.3,
+      "title": "Meet the Family: Odin, Loki, Freyja, Tyr"
+    },
+    {
+      "startTime": 781.8,
+      "title": "Yggdrasil, the World Tree"
+    },
+    {
+      "startTime": 1028.0,
+      "title": "Saving the Myths"
+    },
+    {
+      "startTime": 1281.7,
+      "title": "The Gods Hiding in the Week"
+    },
+    {
+      "startTime": 1669.3,
+      "title": "What's Next: Houses Made of Grass"
+    }
+  ]
+}

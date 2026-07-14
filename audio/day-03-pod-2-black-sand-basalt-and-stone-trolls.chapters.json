@@ -1,0 +1,33 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 0.0,
+      "title": "The Blackest Beach"
+    },
+    {
+      "startTime": 187.0,
+      "title": "Why the Sand Is Black"
+    },
+    {
+      "startTime": 464.2,
+      "title": "The Stone Pipe Organ"
+    },
+    {
+      "startTime": 690.4,
+      "title": "The Ocean as Sculptor"
+    },
+    {
+      "startTime": 1001.6,
+      "title": "The Legend of the Stone Trolls"
+    },
+    {
+      "startTime": 1265.7,
+      "title": "Danger: Sneaker Waves"
+    },
+    {
+      "startTime": 1727.2,
+      "title": "What's Next: Puffins"
+    }
+  ]
+}

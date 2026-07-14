@@ -1,0 +1,29 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 0.0,
+      "title": "Cold Open"
+    },
+    {
+      "startTime": 230.6,
+      "title": "The Whole Circle Recap"
+    },
+    {
+      "startTime": 1192.2,
+      "title": "Would You Live Here"
+    },
+    {
+      "startTime": 1307.1,
+      "title": "The Family Quiz"
+    },
+    {
+      "startTime": 1543.4,
+      "title": "Words We Learned"
+    },
+    {
+      "startTime": 1747.3,
+      "title": "Goodbye"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 0.0,
+      "title": "Recap: The Empty Island"
+    },
+    {
+      "startTime": 164.5,
+      "title": "The Ghost Monks"
+    },
+    {
+      "startTime": 412.8,
+      "title": "The Vikings Arrive"
+    },
+    {
+      "startTime": 756.0,
+      "title": "Ingolfur and the High-Seat Pillars"
+    },
+    {
+      "startTime": 1310.7,
+      "title": "Who the Settlers Were"
+    },
+    {
+      "startTime": 1497.0,
+      "title": "A Country With Laws But No King"
+    },
+    {
+      "startTime": 1925.1,
+      "title": "What's Coming Next"
+    }
+  ]
+}

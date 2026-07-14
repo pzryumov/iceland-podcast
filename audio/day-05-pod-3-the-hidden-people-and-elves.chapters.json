@@ -1,0 +1,33 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 0.0,
+      "title": "Cold Open: A Lonely Boulder"
+    },
+    {
+      "startTime": 191.6,
+      "title": "Who Lives in the Rock?"
+    },
+    {
+      "startTime": 462.4,
+      "title": "Roads That Bend Around Rocks"
+    },
+    {
+      "startTime": 661.7,
+      "title": "Do Icelanders Really Believe?"
+    },
+    {
+      "startTime": 835.5,
+      "title": "A Whole Monster Family"
+    },
+    {
+      "startTime": 1338.6,
+      "title": "The Christmas Cat"
+    },
+    {
+      "startTime": 1711.9,
+      "title": "What's Next: The Sagas"
+    }
+  ]
+}

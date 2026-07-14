@@ -1,0 +1,29 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 0.0,
+      "title": "Driving Through a River"
+    },
+    {
+      "startTime": 218.3,
+      "title": "What Even Is a Glacier?"
+    },
+    {
+      "startTime": 607.0,
+      "title": "How Glaciers Carve Valleys"
+    },
+    {
+      "startTime": 818.6,
+      "title": "Why the Rivers Have No Bridges"
+    },
+    {
+      "startTime": 1129.1,
+      "title": "Jokulhlaup: When the Ice Floods"
+    },
+    {
+      "startTime": 1510.6,
+      "title": "What's Next: Meet Thor"
+    }
+  ]
+}

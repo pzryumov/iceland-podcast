@@ -1,0 +1,25 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 0.0,
+      "title": "Cold Open: The Warm Bath"
+    },
+    {
+      "startTime": 169.9,
+      "title": "Every Town Has a Pool"
+    },
+    {
+      "startTime": 356.3,
+      "title": "The Living Room of the Country"
+    },
+    {
+      "startTime": 509.4,
+      "title": "The Shower Rule"
+    },
+    {
+      "startTime": 886.6,
+      "title": "What's Next: The Grand Wrap-Up"
+    }
+  ]
+}

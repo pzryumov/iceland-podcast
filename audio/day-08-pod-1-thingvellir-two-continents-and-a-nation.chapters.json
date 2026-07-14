@@ -1,0 +1,33 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 0.0,
+      "title": "Cold Open: Just a Pretty Field"
+    },
+    {
+      "startTime": 140.0,
+      "title": "Welcome and Recap"
+    },
+    {
+      "startTime": 244.8,
+      "title": "The Crack You Can Walk Into"
+    },
+    {
+      "startTime": 669.2,
+      "title": "The Parliament in a Field"
+    },
+    {
+      "startTime": 1238.7,
+      "title": "A Nation and a Rainstorm"
+    },
+    {
+      "startTime": 1524.6,
+      "title": "Bringing It Home"
+    },
+    {
+      "startTime": 1625.9,
+      "title": "What's Next: The Geyser"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 0.0,
+      "title": "Cold Open: The White Wall"
+    },
+    {
+      "startTime": 95.8,
+      "title": "Welcome to Fire & Ice"
+    },
+    {
+      "startTime": 182.3,
+      "title": "What Is an Ice Cap?"
+    },
+    {
+      "startTime": 508.7,
+      "title": "How Deep the Ice Goes"
+    },
+    {
+      "startTime": 700.5,
+      "title": "Volcanoes Under the Ice"
+    },
+    {
+      "startTime": 1087.5,
+      "title": "The Black Waterfall"
+    },
+    {
+      "startTime": 1538.5,
+      "title": "What's Next: The Glacier Lagoon"
+    }
+  ]
+}

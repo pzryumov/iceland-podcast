@@ -1,0 +1,33 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 0.0,
+      "title": "Cold Open: Floating Mountains"
+    },
+    {
+      "startTime": 191.1,
+      "title": "The Lake That Made Itself"
+    },
+    {
+      "startTime": 486.4,
+      "title": "Why Is the Ice Blue?"
+    },
+    {
+      "startTime": 829.4,
+      "title": "Spies, Superheroes, and Ice"
+    },
+    {
+      "startTime": 1055.9,
+      "title": "The Diamond Beach"
+    },
+    {
+      "startTime": 1236.7,
+      "title": "A Warming World"
+    },
+    {
+      "startTime": 1652.9,
+      "title": "What's Next: Hidden People"
+    }
+  ]
+}

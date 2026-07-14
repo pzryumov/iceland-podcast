@@ -1,0 +1,33 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 0.0,
+      "title": "Welcome to Saga Country"
+    },
+    {
+      "startTime": 195.0,
+      "title": "What Is a Saga"
+    },
+    {
+      "startTime": 351.6,
+      "title": "The Storytelling Nation"
+    },
+    {
+      "startTime": 614.2,
+      "title": "The Great Stories"
+    },
+    {
+      "startTime": 1051.2,
+      "title": "More Great Sagas"
+    },
+    {
+      "startTime": 1498.4,
+      "title": "The Treasures Come Home"
+    },
+    {
+      "startTime": 1914.3,
+      "title": "What's Next: Reykjavik"
+    }
+  ]
+}
